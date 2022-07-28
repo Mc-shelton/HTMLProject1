@@ -1,2 +1,2 @@
-# HTMLProject1
-Microverse Trials Collaboration project 1
+# Microverse-Project
+Microverse HTML/CSS Project.
